@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in scuba diving, photography, and reading.
-- 🌱 I’m currently learning ASP.NET, working on freeCodeCamp certifications.
+- 👀 I’m seeking an entry-level or internship position as a Software or Web Developer.
+- 🌱 I’m currently learning ASP.NET and working on freeCodeCamp certifications.
 - 📫 How to reach me dwernz@att.net.
 
 <!---
