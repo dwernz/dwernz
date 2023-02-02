@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m seeking an entry-level or internship position as a Software or Web Developer.
-- 🌱 I’m currently learning ASP.NET and working on freeCodeCamp certifications.
+- 🌱 I’m currently learning .NET MAUI and developing my app.
 - 📫 How to reach me dwernz@att.net.
 
 <!---
