@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Daniel
+- 👋 Hi, I’m Daniel Wernz, an aspiring programmer and a former chef.
 - 👀 I’m seeking an entry-level or internship position as a Software or Web Developer.
-- 🌱 I’m currently learning .NET MAUI and developing my app.
+- 🌱 I’m currently learning with Zero to Mastery Academy.
 - 📫 How to reach me dwernz@att.net.
 
 <!---
